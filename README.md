@@ -1,8 +1,10 @@
 # OSS_team_mission
-##TEAM Number : 
 
-##Student ID : 21500525
+##2022 04/25 OSS Lecture TEAM Number : 
 
-##Name : woojin Lee
+##Student ID :
+21500525 , 
 
-###2022 04/25 OSS Lecture
+##Name : 
+woojin Lee , 
+
